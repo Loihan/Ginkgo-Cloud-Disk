@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# user uploads
+/uploads
+/avatars
+
+# logs
+npm-debug.log*
+yarn-error.log
+yarn-debug.log*
+
+# local env files
+.env
